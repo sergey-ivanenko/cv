@@ -1,2 +1,2 @@
-# https://sergey-ivanenko.github.io/rsschool-cv/cv
+# https://sergey-ivanenko.github.io/cv
 My github CV
