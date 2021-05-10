@@ -1,7 +1,10 @@
 # Sergey Ivanenko
 
+<img align="right" width="250" height="250" src="photo.jpg">
+
 | Contacts | |
 | ------ | ------ |
+| Phone number | +375 (29) 295-93-52 |
 | Email | sergeyivanenko11@gmail.com |
 | GitHub | https://github.com/sergey-ivanenko |
 | LinkedIn | https://www.linkedin.com/in/sergey-ivanenko |
